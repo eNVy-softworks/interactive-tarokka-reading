@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7e7330208e1ad246a5768fd67b9b0b4, type: 3}
+  m_Name: 9_Torturer
+  m_EditorClassIdentifier: 
+  Card: {fileID: 21300000, guid: ca9d8b5076969ba48893236719be379d, type: 3}
+  Deck: 0
+  Rank: 8
+  Suit: 0
+  Name: 23
+  Represents: The coming of suffering or merciless cruelty; one who is irredeemably
+    evil or sadistic

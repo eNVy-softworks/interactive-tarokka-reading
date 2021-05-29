@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7e7330208e1ad246a5768fd67b9b0b4, type: 3}
+  m_Name: 1_Transmuter
+  m_EditorClassIdentifier: 
+  Card: {fileID: 21300000, guid: 60b2279d075855a489d0b049b55b8580, type: 3}
+  Deck: 0
+  Rank: 0
+  Suit: 1
+  Name: 25
+  Represents: A new discovery; the coming of unexpected things; unforeseen consequences
+    and chaos
